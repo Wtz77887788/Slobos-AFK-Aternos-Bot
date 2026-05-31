@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "vince",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "s15_ny.aternos.me:59756",

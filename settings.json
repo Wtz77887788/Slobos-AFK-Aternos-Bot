@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "vince",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "s15_ny.aternos.me",
+    "ip": "s15_ny.aternos.me:59756",
     "port": 59756,
     "version": "",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "abc123"
     },
     "anti-afk": {
       "enabled": true,
